@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Celeste.sublime-color-scheme",
+	"draw_white_space": "all",
+	"font_face": "PT mono",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_full_path": true,
+	"theme": "Adaptive.sublime-theme"
+}
